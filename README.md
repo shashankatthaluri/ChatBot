@@ -26,6 +26,7 @@ ChatBot is a simple chat application built with Flask and ChatterBot that allows
 
     ```bash
     pip install -r requirements.txt
+    pip install flask chatterbot
     ```
 
 4. Run the Flask application:
